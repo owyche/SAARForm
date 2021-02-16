@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="DELETE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <condition table="x_570080_2875_2875_database">saar_state=awaiting approval^EQ<item display_value="Awaiting Approval" endquery="false" field="saar_state" goto="false" newquery="false" operator="=" or="false" value="awaiting approval"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>SOR View</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+    // Add your code here
+//     switch (gs.getUser().getRecord().getValue('title')) {
+//         case 'Applicant':
+//             answer = 'SOR View';
+//             break;
+//         case 'SOR':
+//             answer = 'Security Manager View';
+//             break;
+//         case 'Security Manager':
+//             answer = 'Security Manager View';
+//             break;
+//         default:
+//             answer = 'Security Manager View';
+//     }
+    //answer = null; // set the new view to answer
+	
+	answer = "SOR View";
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 01:06:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f800f7f8db1a201095a4e1bb4b9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOR View</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sysrule_view_f800f7f8db1a201095a4e1bb4b9619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 01:06:07</sys_updated_on>
+        <table>x_570080_2875_2875_database</table>
+        <view>SOR</view>
+    </sysrule_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="2875">d0c96262db02201095a4e1bb4b9619ad</application>
+        <file_path/>
+        <instance_id>256f09d0dbb953043353f22ebf961950</instance_id>
+        <instance_name>dev57464</instance_name>
+        <name>sysrule_view_f800f7f8db1a201095a4e1bb4b9619f8</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysrule_view"&gt;&lt;sysrule_view action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;condition table="x_570080_2875_2875_database"&gt;saar_state=awaiting approval^EQ&lt;item display_value="Awaiting Approval" endquery="false" field="saar_state" goto="false" newquery="false" operator="=" or="false" value="awaiting approval"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;description/&gt;&lt;device_type&gt;browser&lt;/device_type&gt;&lt;match_conditions&gt;ALL&lt;/match_conditions&gt;&lt;name&gt;SOR View&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;overrides_user_preference&gt;true&lt;/overrides_user_preference&gt;&lt;script&gt;&lt;![CDATA[(function overrideView(view, is_list) {
+    // Add your code here
+//     switch (gs.getUser().getRecord().getValue('title')) {
+//         case 'Applicant':
+//             answer = 'SOR View';
+//             break;
+//         case 'SOR':
+//             answer = 'Security Manager View';
+//             break;
+//         case 'Security Manager':
+//             answer = 'Security Manager View';
+//             break;
+//         default:
+//             answer = 'Security Manager View';
+//     }
+    //answer = null; // set the new view to answer
+	
+	answer = "SOR View";
+
+})(view, is_list);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sysrule_view&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-02-11 01:06:07&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f800f7f8db1a201095a4e1bb4b9619f8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;SOR View&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="2875" source="x_570080_2875"&gt;d0c96262db02201095a4e1bb4b9619ad&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="2875"&gt;d0c96262db02201095a4e1bb4b9619ad&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysrule_view_f800f7f8db1a201095a4e1bb4b9619f8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-02-11 01:06:07&lt;/sys_updated_on&gt;&lt;table&gt;x_570080_2875_2875_database&lt;/table&gt;&lt;view&gt;SOR&lt;/view&gt;&lt;/sysrule_view&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-2004874624</payload_hash>
+        <record_name>SOR View</record_name>
+        <reverted_from/>
+        <source>9cc96626db02201095a4e1bb4b9619d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-11 01:06:07</sys_created_on>
+        <sys_id>3400f7f8db1a201095a4e1bb4b9619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1778e9fb6c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-11 01:06:07</sys_updated_on>
+        <type>View Rule</type>
+        <update_guid>7c00f7f89e1a2010c395905fc04d51f9</update_guid>
+        <update_guid_history>7c00f7f89e1a2010c395905fc04d51f9:-2004874624</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2021-02-11 09:31:00</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_view">sysrule_view</sys_db_object>
+        <sys_id>213f93e9b85944288e65afc9f126c3c4</sys_id>
+        <sys_metadata>f800f7f8db1a201095a4e1bb4b9619f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SOR View</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_parent display_value="2875 database">c0252e83db46601095a4e1bb4b96192a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_scope_delete display_value="">584890e7004f4ad9b2530651d8645ef1</sys_scope_delete>
+        <sys_update_name>sysrule_view_f800f7f8db1a201095a4e1bb4b9619f8</sys_update_name>
+        <sys_update_version display_value="sysrule_view_f800f7f8db1a201095a4e1bb4b9619f8">3400f7f8db1a201095a4e1bb4b9619fa</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2021-02-11 09:31:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

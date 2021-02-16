@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="DELETE">
+        <active>true</active>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ANY</match_conditions>
+        <name>Applicant</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+    // Add your code here
+    var answer = '';
+    switch (g_user.getClientData('title')) {
+        case Appicant:
+            answer = 'Applicant View';
+            break;
+        case 'COR':
+            answer = 'COR View';
+            break;
+        case "Security Manager":
+            answer = 'Security Manager View';
+            break;
+        default:
+            answer = 'Applicant';
+    }
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 18:27:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f7675332db4e201095a4e1bb4b961914</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Applicant</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sysrule_view_f7675332db4e201095a4e1bb4b961914</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 11:10:53</sys_updated_on>
+        <table>x_570080_2875_2875_database</table>
+        <view>Applicant</view>
+    </sysrule_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="2875">d0c96262db02201095a4e1bb4b9619ad</application>
+        <file_path/>
+        <instance_id>256f09d0dbb953043353f22ebf961950</instance_id>
+        <instance_name>dev57464</instance_name>
+        <name>sysrule_view_f7675332db4e201095a4e1bb4b961914</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysrule_view"&gt;&lt;sysrule_view action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;condition/&gt;&lt;description/&gt;&lt;device_type&gt;browser&lt;/device_type&gt;&lt;match_conditions&gt;ANY&lt;/match_conditions&gt;&lt;name&gt;Applicant&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;overrides_user_preference&gt;true&lt;/overrides_user_preference&gt;&lt;script&gt;&lt;![CDATA[(function overrideView(view, is_list) {
+    // Add your code here
+    var answer = '';
+    switch (g_user.getClientData('title')) {
+        case Appicant:
+            answer = 'Applicant View';
+            break;
+        case 'COR':
+            answer = 'COR View';
+            break;
+        case "Security Manager":
+            answer = 'Security Manager View';
+            break;
+        default:
+            answer = 'Applicant';
+    }
+
+})(view, is_list);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sysrule_view&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-02-04 18:27:32&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f7675332db4e201095a4e1bb4b961914&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Applicant&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="2875" source="x_570080_2875"&gt;d0c96262db02201095a4e1bb4b9619ad&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="2875"&gt;d0c96262db02201095a4e1bb4b9619ad&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysrule_view_f7675332db4e201095a4e1bb4b961914&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-02-05 11:10:53&lt;/sys_updated_on&gt;&lt;table&gt;x_570080_2875_2875_database&lt;/table&gt;&lt;view&gt;Applicant&lt;/view&gt;&lt;/sysrule_view&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>769799913</payload_hash>
+        <record_name>Applicant</record_name>
+        <reverted_from/>
+        <source>9cc96626db02201095a4e1bb4b9619d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 11:10:53</sys_created_on>
+        <sys_id>dde0cb4fdb86601095a4e1bb4b96191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17771e33b390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 11:10:53</sys_updated_on>
+        <type>View Rule</type>
+        <update_guid>59e0cb4f9286601000e75ef0711d941f</update_guid>
+        <update_guid_history>59e0cb4f9286601000e75ef0711d941f:769799913,3f3bd332524e2010f1b6148c7515c73e:31965283</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-10 10:46:00</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_view">sysrule_view</sys_db_object>
+        <sys_id>91e186e0ff2a47ce92130d4a4dab1444</sys_id>
+        <sys_metadata>f7675332db4e201095a4e1bb4b961914</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Applicant</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_parent display_value="">ad5cfe62db42201095a4e1bb4b961944</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_scope_delete display_value="">584890e7004f4ad9b2530651d8645ef1</sys_scope_delete>
+        <sys_update_name>sysrule_view_f7675332db4e201095a4e1bb4b961914</sys_update_name>
+        <sys_update_version display_value="sysrule_view_f7675332db4e201095a4e1bb4b961914">dde0cb4fdb86601095a4e1bb4b96191f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-10 10:46:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

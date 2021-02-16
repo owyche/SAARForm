@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>lolol</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 21:39:49</sys_created_on>
+        <sys_id>a8474443dbce201095a4e1bb4b961997</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOLOL</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_ui_view_a8474443dbce201095a4e1bb4b961997</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-04 21:39:49</sys_updated_on>
+        <title>LOLOL</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="2875">d0c96262db02201095a4e1bb4b9619ad</application>
+        <file_path/>
+        <instance_id>256f09d0dbb953043353f22ebf961950</instance_id>
+        <instance_name>dev57464</instance_name>
+        <name>sys_ui_view_a8474443dbce201095a4e1bb4b961997</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>lolol</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-04 21:39:49</sys_created_on><sys_id>a8474443dbce201095a4e1bb4b961997</sys_id><sys_mod_count>0</sys_mod_count><sys_name>LOLOL</sys_name><sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package><sys_policy/><sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope><sys_update_name>sys_ui_view_a8474443dbce201095a4e1bb4b961997</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-04 21:39:49</sys_updated_on><title>LOLOL</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>333721133</payload_hash>
+        <record_name>LOLOL</record_name>
+        <reverted_from/>
+        <source>9cc96626db02201095a4e1bb4b9619d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 21:39:49</sys_created_on>
+        <sys_id>2c478443dbce201095a4e1bb4b961979</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1776efcae120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-04 21:39:49</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>e4474443c1ce2010f2ec81df1174ba99</update_guid>
+        <update_guid_history>e4474443c1ce2010f2ec81df1174ba99:333721133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>abel.tuter</sys_created_by>
+        <sys_created_on>2021-02-11 17:40:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>09d6104e41c74c2e80910d25b6ae75a1</sys_id>
+        <sys_metadata>a8474443dbce201095a4e1bb4b961997</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOLOL</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_scope_delete display_value="">584890e7004f4ad9b2530651d8645ef1</sys_scope_delete>
+        <sys_update_name>sys_ui_view_a8474443dbce201095a4e1bb4b961997</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_a8474443dbce201095a4e1bb4b961997">2c478443dbce201095a4e1bb4b961979</sys_update_version>
+        <sys_updated_by>abel.tuter</sys_updated_by>
+        <sys_updated_on>2021-02-11 17:40:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="2875" name="2875">8095762edb02201095a4e1bb4b961930</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:25</sys_created_on>
+        <sys_id>0495762edb02201095a4e1bb4b96193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.2875</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_user_role_contains_0495762edb02201095a4e1bb4b96193a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:25</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="2875">d0c96262db02201095a4e1bb4b9619ad</application>
+        <file_path/>
+        <instance_id>256f09d0dbb953043353f22ebf961950</instance_id>
+        <instance_name>dev57464</instance_name>
+        <name>sys_user_role_contains_0495762edb02201095a4e1bb4b96193a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains><role display_value="2875" name="2875">8095762edb02201095a4e1bb4b961930</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-03 21:04:25</sys_created_on><sys_id>0495762edb02201095a4e1bb4b96193a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>workspace_user.2875</sys_name><sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package><sys_policy/><sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope><sys_update_name>sys_user_role_contains_0495762edb02201095a4e1bb4b96193a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-03 21:04:25</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>117438010</payload_hash>
+        <record_name>workspace_user.2875</record_name>
+        <reverted_from/>
+        <source>9cc96626db02201095a4e1bb4b9619d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:25</sys_created_on>
+        <sys_id>cc95762edb02201095a4e1bb4b96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17769b5e9720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:25</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>0895762e130220107d1e47e3d14d193e</update_guid>
+        <update_guid_history>0895762e130220107d1e47e3d14d193e:117438010</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 11:11:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>73215df5032944adb2c54f376c40f1b1</sys_id>
+        <sys_metadata>0495762edb02201095a4e1bb4b96193a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.2875</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_scope_delete display_value="">584890e7004f4ad9b2530651d8645ef1</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_0495762edb02201095a4e1bb4b96193a</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_0495762edb02201095a4e1bb4b96193a">cc95762edb02201095a4e1bb4b96193e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 11:11:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1a9acb89db16201095a4e1bb4b961973" sys_domain="global" table="x_570080_2875_2875_database" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-11 17:34:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97129701db56201095a4e1bb4b961969</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570080_2875_2875_database" name="x_570080_2875_2875_database" sys_domain="global" view="Default view">1a9acb89db16201095a4e1bb4b961973</sys_ui_form>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-12 16:06:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>abraham.lincoln</sys_created_by>
+            <sys_created_on>2021-02-11 17:01:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>529acb89db16201095a4e1bb4b96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570080_2875_2875_database" name="x_570080_2875_2875_database" sys_domain="global" view="Default view">1a9acb89db16201095a4e1bb4b961973</sys_ui_form>
+            <sys_ui_section caption="Part  II" display_value="Part  II" name="x_570080_2875_2875_database" sys_domain="global" view="Default view">169acb89db16201095a4e1bb4b961971</sys_ui_section>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-02-11 17:01:08</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-11 18:43:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eaa1230ddb56201095a4e1bb4b96199f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570080_2875_2875_database" name="x_570080_2875_2875_database" sys_domain="global" view="Default view">1a9acb89db16201095a4e1bb4b961973</sys_ui_form>
+            <sys_ui_section caption="Part III" display_value="Part III" name="x_570080_2875_2875_database" sys_domain="global" view="26b55fbedb0e201095a4e1bb4b9619cb">6c1fbecbdb86601095a4e1bb4b9619d1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-12 16:06:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-11 18:43:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d6f16bc9db56201095a4e1bb4b96193c</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_570080_2875_2875_database" name="x_570080_2875_2875_database" sys_domain="global" view="Default view">1a9acb89db16201095a4e1bb4b961973</sys_ui_form>
+            <sys_ui_section caption="Part IV" display_value="Part IV" name="x_570080_2875_2875_database" sys_domain="global" view="26b55fbedb0e201095a4e1bb4b9619cb">cb834f45db16201095a4e1bb4b9619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-12 16:06:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_570080_2875_2875_database</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>abraham.lincoln</sys_created_by>
+            <sys_created_on>2021-02-11 17:01:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a9acb89db16201095a4e1bb4b961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570080_2875_2875_database</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1a9acb89db16201095a4e1bb4b961973</sys_update_name>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-02-11 17:01:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

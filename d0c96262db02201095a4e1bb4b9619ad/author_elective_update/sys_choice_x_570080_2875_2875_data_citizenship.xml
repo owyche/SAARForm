@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="citizenship" table="x_570080_2875_2875_data" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>citizenship</element>
+            <name>x_570080_2875_2875_data</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-03 21:03:02</sys_created_on>
+            <sys_id>b335322edb02201095a4e1bb4b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>citizenship</sys_name>
+            <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+            <sys_update_name>sys_choice_x_570080_2875_2875_data_citizenship</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-03 21:03:02</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

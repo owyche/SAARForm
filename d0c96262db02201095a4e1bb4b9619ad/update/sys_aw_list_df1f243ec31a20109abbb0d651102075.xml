@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="2875 Category">c1bda4fac31a20109abbb0d65110206c</category>
+        <columns>number,saar_state,saar_requestor_name,saar_requestor_organization,saar_designation_of_person,saar_justification_for_access,saar_clearance_level</columns>
+        <condition table="x_570080_2875_2875_database">saar_state=closed completed^EQ<item display_value="Closed completed" endquery="false" field="saar_state" goto="false" newquery="false" operator="=" or="false" value="closed completed"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <groups/>
+        <list_attributes/>
+        <order>200</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 16:11:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df1f243ec31a20109abbb0d651102075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Completed List</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_aw_list_df1f243ec31a20109abbb0d651102075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 16:11:54</sys_updated_on>
+        <table>x_570080_2875_2875_database</table>
+        <title>Completed List</title>
+        <workspace display_value="2875 Workspace">c785362edb02201095a4e1bb4b96193d</workspace>
+    </sys_aw_list>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="DELETE">
+        <active>true</active>
+        <category display_value="2875 data">e385362edb02201095a4e1bb4b9619a1</category>
+        <columns>access_expiration_date,citizenship,date,designation_of_person,email,ia_training_and_certifications_requirements,ia_training_and_certifications_requirements_date,iao_date,iao_organization_department,iao_phone_number,justification_for_access,name,number,office_symbol_department,official_email,opr_date,opr_phone_number,organization,phone,signature_of_iao_or_appointee,signature_of_information_owner_opr,supervisor_s_email,supervisor_s_name,supervisor_s_organization_department,supervisor_s_phone_number,supervisor_s_signature,supervisor_s_signature_date,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,system_name,type_of_access,type_of_request,user_name,user_name_date,user_requires_access_to,verification_of_need_to_know</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6385362edb02201095a4e1bb4b9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_aw_list_6385362edb02201095a4e1bb4b9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:22</sys_updated_on>
+        <table>x_570080_2875_2875_data</table>
+        <title>All</title>
+        <workspace display_value="2875">c785362edb02201095a4e1bb4b96193d</workspace>
+    </sys_aw_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="2875">d0c96262db02201095a4e1bb4b9619ad</application>
+        <file_path/>
+        <instance_id>256f09d0dbb953043353f22ebf961950</instance_id>
+        <instance_name>dev57464</instance_name>
+        <name>sys_aw_list_6385362edb02201095a4e1bb4b9619a6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list"><sys_aw_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="2875 data">e385362edb02201095a4e1bb4b9619a1</category><columns>access_expiration_date,citizenship,date,designation_of_person,email,ia_training_and_certifications_requirements,ia_training_and_certifications_requirements_date,iao_date,iao_organization_department,iao_phone_number,justification_for_access,name,number,office_symbol_department,official_email,opr_date,opr_phone_number,organization,phone,signature_of_iao_or_appointee,signature_of_information_owner_opr,supervisor_s_email,supervisor_s_name,supervisor_s_organization_department,supervisor_s_phone_number,supervisor_s_signature,supervisor_s_signature_date,sys_class_name,sys_created_by,sys_created_on,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,system_name,type_of_access,type_of_request,user_name,user_name_date,user_requires_access_to,verification_of_need_to_know</columns><condition/><groups/><list_attributes/><order>100</order><roles/><sys_class_name>sys_aw_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-03 21:04:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6385362edb02201095a4e1bb4b9619a6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package><sys_policy/><sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope><sys_update_name>sys_aw_list_6385362edb02201095a4e1bb4b9619a6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-03 21:04:22</sys_updated_on><table>x_570080_2875_2875_data</table><title>All</title><workspace display_value="2875">c785362edb02201095a4e1bb4b96193d</workspace></sys_aw_list></record_update>]]></payload>
+        <payload_hash>-643682306</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>9cc96626db02201095a4e1bb4b9619d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:23</sys_created_on>
+        <sys_id>eb85362edb02201095a4e1bb4b9619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17769b5dfec0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:23</sys_updated_on>
+        <type>Workspace List</type>
+        <update_guid>2785362e4e022010e69db36a22eed9a8</update_guid>
+        <update_guid_history>2785362e4e022010e69db36a22eed9a8:-643682306</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:32:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_aw_list">sys_aw_list</sys_db_object>
+        <sys_id>07ea82f520784e8080cdd8e4de05a210</sys_id>
+        <sys_metadata>6385362edb02201095a4e1bb4b9619a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_scope_delete display_value="">584890e7004f4ad9b2530651d8645ef1</sys_scope_delete>
+        <sys_update_name>sys_aw_list_6385362edb02201095a4e1bb4b9619a6</sys_update_name>
+        <sys_update_version display_value="sys_aw_list_6385362edb02201095a4e1bb4b9619a6">eb85362edb02201095a4e1bb4b9619a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:32:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

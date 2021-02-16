@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>saar_required_classified</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 21:50:03</sys_created_on>
+        <sys_id>b76971a8db12601095a4e1bb4b9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>saar_required_classified</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b76971a8db12601095a4e1bb4b9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 21:50:03</sys_updated_on>
+        <table>x_570080_2875_2875_database</table>
+        <ui_policy display_value="Show of Classified">e9673d28db12601095a4e1bb4b9619ec</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="System Authorization Access Request" section_id="fdd6e647db46601095a4e1bb4b961929" sys_domain="global" table="x_570080_2875_2875_database" version="3" view="Applicant_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>82851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_type_of_request</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>06851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_type_of_request_other</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>86851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_system_name_platform_of_applications</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>0a851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_requestor_name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>8a851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_request_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>0e851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_requestor_office</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>8e851baac31220109abbb0d651102061</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_official_mailing_address</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>02851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_official_email_address</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>82851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_ia_training</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>06851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_ia_training_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>86851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>0a851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_state</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>8a851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_location</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>0e851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_requestor_organization</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>8e851baac31220109abbb0d651102062</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_office_symbol_department</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>02851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_requestor_phone</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>82851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_requestor_job_title</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>06851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_citizenship</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>86851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_designation_of_person</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>0a851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>saar_user_signature</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>8a851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_signature_date</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-16 09:39:47</sys_created_on>
+            <sys_id>0e851baac31220109abbb0d651102063</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="System Authorization Access Request" display_value="System Authorization Access Request" name="x_570080_2875_2875_database" sys_domain="global" view="9bf417bedb0e201095a4e1bb4b9619c7">fdd6e647db46601095a4e1bb4b961929</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-16 09:39:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>System Authorization Access Request</caption>
+            <header>false</header>
+            <name>x_570080_2875_2875_database</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:17:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fdd6e647db46601095a4e1bb4b961929</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>x_570080_2875_2875_database</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+            <sys_update_name>sys_ui_section_fdd6e647db46601095a4e1bb4b961929</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-11 13:17:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Applicant " name="Applicant_View">9bf417bedb0e201095a4e1bb4b9619c7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

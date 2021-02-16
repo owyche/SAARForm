@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="saar_access_expiration_date" label="Access Expiration Date" language="en" table="x_570080_2875_2875_database">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>saar_access_expiration_date</element>
+            <help/>
+            <hint/>
+            <label>Access Expiration Date</label>
+            <language>en</language>
+            <name>x_570080_2875_2875_database</name>
+            <plural>Access Expiration Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:34:55</sys_created_on>
+            <sys_id>afea2a4bdb46601095a4e1bb4b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Access Expiration Date</sys_name>
+            <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+            <sys_update_name>sys_documentation_x_570080_2875_2875_database_saar_access_expiration_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:34:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

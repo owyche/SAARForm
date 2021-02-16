@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_dd_2875_servicecatalog" name="sn_dd_2875_servicecatalog">3621b2b2dbca201095a4e1bb4b961941</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-04 15:23:42</sys_created_on>
+        <sys_id>7a21b2b2dbca201095a4e1bb4b961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3621b2b2dbca201095a4e1bb4b961941</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7a21b2b2dbca201095a4e1bb4b961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-04 15:23:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckliiffffeeccfaaaaaahddbhhfvmkbbzfphh",
+  "elementLabel" : "",
+  "propertyValues" : {
+    "html" : "&lt;p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"&gt;&lt;span style=\"font-family: arial, helvetica, sans-serif;\" data-mce-style=\"font-family: arial, helvetica, sans-serif;\"&gt;&lt;strong&gt;2875 Workspace&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;"
+  },
+  "slot" : "ckl85542f000i3b7fsammg4sx",
+  "definition" : {
+    "id" : "2d56f06d55f46bbd4e79b5e624beb940",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckliiffbtddtaaaaaamddbhhfwzsmeeuiijj",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "",
+    "bare" : false,
+    "type" : "default",
+    "bgvar" : "",
+    "border" : false,
+    "canCollapse" : false,
+    "collapsed" : false
+  },
+  "slot" : "ckl85bt3v000n3b7fmaof9qzi",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"row","columns":[{"type":"column","slotName":"ckl85bvwb000r3b7fzi8ivhy9","size":"12","rows":[],"id":"ckl85bvwc000t3b7f8bvsg5m1"}],"id":"ckl85bvwc000s3b7fq74sd81j"},
+        "items" : null,
+        "rules" : null,
+        "styles" : null
+      }
+    },
+    "composition" : [ {
+      "elementId" : "ckliiffbvwbaaaaaaqddbhhfjjggfaziiggbb",
+      "elementLabel" : "Data Visualization",
+      "propertyValues" : {
+        "label" : "",
+        "chartType" : "bar",
+        "dataConfigurations" : "[{\"aggregate_function\":\"COUNT\",\"group_by\":\"saar_access_expiration_date\",\"number_of_groups\":10,\"show_other\":true,\"start_time\":\"P3M\",\"source_type\":\"table\",\"source_id\":\"x_570080_2875_2875_database\"}]",
+        "styleConfigurations" : "{\"width\":\"auto\",\"height\":\"auto\",\"showDataLabels\":false,\"xAxisConfig\":{},\"yAxisConfig\":{},\"dataLabelConfig\":{},\"hideRegister\":false,\"registerConfig\":{\"legendOnly\":true},\"registerPosition\":\"bottom\"}",
+        "variant" : "auto",
+        "border" : false,
+        "refreshInterval" : "",
+        "kpiDetailsNavigation" : false
+      },
+      "slot" : "ckl85bvwb000r3b7fzi8ivhy9",
+      "definition" : {
+        "id" : "67cf18a377c70010cb834a2a6910619a",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ]
+  }
+}, {
+  "elementId" : "ckliiffgiiqkaaaaaavddbhhfkkxwhccffjj",
+  "elementLabel" : "List",
+  "propertyValues" : {
+    "listTitle" : "All Active Tasks",
+    "table" : "x_570080_2875_2875_database",
+    "query" : null,
+    "columns" : null,
+    "limit" : "5",
+    "maxColumns" : "5",
+    "page" : "1",
+    "hideHeader" : false,
+    "hideTitle" : false,
+    "hideTitleRowCount" : false,
+    "hideRefreshButton" : false,
+    "hideLastRefreshedText" : false,
+    "hideLinks" : false,
+    "hideViewAll" : false,
+    "hideHighlightedValues" : false,
+    "hideCellFilter" : true,
+    "hideCheckboxHover" : true,
+    "hideColumnFiltering" : true,
+    "hideColumnGrouping" : true,
+    "hideColumnSorting" : false,
+    "hideFilterPanel" : false,
+    "hideFirstPage" : false,
+    "hideLastPage" : false,
+    "hideLimitSelector" : false,
+    "hideMenuButton" : true,
+    "hideMultiEdit" : false,
+    "hideDeclarativeActions" : false,
+    "hideNextPage" : false,
+    "hidePages" : false,
+    "hidePagination" : true,
+    "hidePanel" : true,
+    "hidePanelAdvanced" : false,
+    "hidePanelConditionDelete" : false,
+    "hidePanelFooter" : false,
+    "hidePanelRestore" : false,
+    "hidePreviousPage" : false,
+    "hideQuickEdit" : true,
+    "hideRange" : false,
+    "hideRowCount" : false,
+    "hideRowSelector" : false,
+    "hideSelectAll" : true,
+    "hideEmptyStateImage" : false,
+    "hideDBViews" : false,
+    "hideUnnecessaryRowSelectors" : true
+  },
+  "slot" : "ckl85g8ql000w3b7fjnk4yjmw",
+  "definition" : {
+    "id" : "2b1c080881e05dc63b917044290b233f",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+}, {
+  "elementId" : "ckliiffjjmuaaaabbeeddbhhflwjnzwiiy",
+  "elementLabel" : "Report/PA Widget",
+  "propertyValues" : {
+    "label" : "",
+    "reportSysId" : "01a8f532df01110068c37a0d3df2635a",
+    "paWidgetSysId" : "1cf600b5d7231100b96d45a3ce61032b",
+    "variant" : "auto",
+    "border" : false,
+    "refreshInterval" : "",
+    "isRealtime" : false,
+    "refreshFrequency" : "0",
+    "kpiDetailsNavigation" : false
+  },
+  "slot" : "ckl85jjmv00153b7fmi7e2cm9",
+  "definition" : {
+    "id" : "7dbc62b27efa88d6d910579a68c7a65d",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"column","id":"ckl85542f000j3b7fn9quy1lj","size":"12","rows":[{"type":"row","id":"ckl85542f000k3b7f78wgzlbr","slotName":"ckl85542f000i3b7fsammg4sx"},{"type":"row","id":"ckl85jdsw00123b7fin44f068","columns":[{"type":"column","id":"ckl85bt3v000o3b7fdrh9fxlr","slotName":"ckl85bt3v000n3b7fmaof9qzi","size":"6"},{"type":"column","id":"ckl85jjmv00163b7fl65jr5cv","slotName":"ckl85jjmv00153b7fmi7e2cm9","size":"6"}]},{"type":"row","id":"ckl85g8ql000x3b7fe0sz9fvu","slotName":"ckl85g8ql000w3b7fjnk4yjmw"}]},
+    "items" : null,
+    "rules" : null,
+    "styles" : null
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>Homepage</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-16 11:43:46</sys_created_on>
+        <sys_id>52e13f2ec35220109abbb0d65110207b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Homepage</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_ux_macroponent_52e13f2ec35220109abbb0d65110207b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-16 15:22:13</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

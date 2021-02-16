@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>2875 ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x/570080/workspace/2875</query>
+        <report/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c95762edb02201095a4e1bb4b96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2875 ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_app_module_5c95762edb02201095a4e1bb4b96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:25</sys_updated_on>
+        <timeline_page/>
+        <title>2875 ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>2875</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="2875">d0c96262db02201095a4e1bb4b9619ad</application>
+        <file_path/>
+        <instance_id>256f09d0dbb953043353f22ebf961950</instance_id>
+        <instance_name>dev57464</instance_name>
+        <name>sys_app_module_5c95762edb02201095a4e1bb4b96196e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>2875 ➚</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>101</order><override_menu_roles>false</override_menu_roles><query>x/570080/workspace/2875</query><report/><roles>user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-02-03 21:04:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5c95762edb02201095a4e1bb4b96196e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2875 ➚</sys_name><sys_overrides/><sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package><sys_policy/><sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope><sys_update_name>sys_app_module_5c95762edb02201095a4e1bb4b96196e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-02-03 21:04:25</sys_updated_on><timeline_page/><title>2875 ➚</title><uncancelable>false</uncancelable><view_name/><window_name>2875</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2894370</payload_hash>
+        <record_name>2875 ➚</record_name>
+        <reverted_from/>
+        <source>9cc96626db02201095a4e1bb4b9619d0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:25</sys_created_on>
+        <sys_id>d495762edb02201095a4e1bb4b96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17769b5ea650000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1095762e40022010fa12f5678bec818b</update_guid>
+        <update_guid_history>1095762e40022010fa12f5678bec818b:-2894370</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2875 ➚">1cef320fdb86601095a4e1bb4b9619bb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-05 11:06:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>33b27d53e12c41749d741d29c2043a91</sys_id>
+        <sys_metadata>5c95762edb02201095a4e1bb4b96196e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2875 ➚</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_scope_delete display_value="">584890e7004f4ad9b2530651d8645ef1</sys_scope_delete>
+        <sys_update_name>sys_app_module_5c95762edb02201095a4e1bb4b96196e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5c95762edb02201095a4e1bb4b96196e">d495762edb02201095a4e1bb4b96198b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-05 11:06:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

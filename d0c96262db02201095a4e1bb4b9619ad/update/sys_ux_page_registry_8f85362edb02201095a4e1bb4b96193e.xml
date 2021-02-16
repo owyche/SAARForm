@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>c785362edb02201095a4e1bb4b96193d</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/2875</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 21:04:20</sys_created_on>
+        <sys_id>8f85362edb02201095a4e1bb4b96193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2875</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_ux_page_registry_8f85362edb02201095a4e1bb4b96193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 21:04:20</sys_updated_on>
+        <title>2875</title>
+    </sys_ux_page_registry>
+</record_update>

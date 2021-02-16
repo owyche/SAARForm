@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>saar_ia_training_date</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-09 22:32:54</sys_created_on>
+        <sys_id>f1430e20db52601095a4e1bb4b9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>saar_ia_training_date</sys_name>
+        <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+        <sys_update_name>sys_ui_policy_action_f1430e20db52601095a4e1bb4b9619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-09 22:32:54</sys_updated_on>
+        <table>x_570080_2875_2875_database</table>
+        <ui_policy display_value="Show IA Training Date">6d718e6cdb12601095a4e1bb4b9619b3</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

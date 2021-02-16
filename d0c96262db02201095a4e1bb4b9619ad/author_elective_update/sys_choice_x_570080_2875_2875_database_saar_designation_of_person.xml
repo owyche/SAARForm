@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="saar_designation_of_person" table="x_570080_2875_2875_database" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>saar_designation_of_person</element>
+            <name>x_570080_2875_2875_database</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:40:31</sys_created_on>
+            <sys_id>ad3c2e4bdb46601095a4e1bb4b961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>saar_designation_of_person</sys_name>
+            <sys_package display_value="2875" source="x_570080_2875">d0c96262db02201095a4e1bb4b9619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="2875">d0c96262db02201095a4e1bb4b9619ad</sys_scope>
+            <sys_update_name>sys_choice_x_570080_2875_2875_database_saar_designation_of_person</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:40:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>saar_designation_of_person</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Civilian</label>
+            <language>en</language>
+            <name>x_570080_2875_2875_database</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:40:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd2cee4bdb46601095a4e1bb4b961998</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:40:38</sys_updated_on>
+            <value>civilian</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>saar_designation_of_person</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contractor</label>
+            <language>en</language>
+            <name>x_570080_2875_2875_database</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:41:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d4ce68bdb46601095a4e1bb4b9619c1</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:41:30</sys_updated_on>
+            <value>contractor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>saar_designation_of_person</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Military</label>
+            <language>en</language>
+            <name>x_570080_2875_2875_database</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-05 09:40:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd3ce68bdb46601095a4e1bb4b9619c0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-05 09:40:55</sys_updated_on>
+            <value>military</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

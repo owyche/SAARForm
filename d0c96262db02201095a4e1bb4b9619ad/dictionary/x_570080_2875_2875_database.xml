@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="2875 database" max_length="40" name="x_570080_2875_2875_database" sizeclass="2" type="collection">
+        <element label="Access Expiration Date" mandatory="true" max_length="40" name="saar_access_expiration_date" type="glide_date"/>
+        <element choice="1" default="us" label="Citizenship" mandatory="true" max_length="40" name="saar_citizenship" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="FN" value="fn"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+                <element inactive_on_update="false" label="US" value="us"/>
+            </choice>
+        </element>
+        <element label="Clearance Level" mandatory="true" max_length="40" name="saar_clearance_level" type="string"/>
+        <element label="Date Of Investigation" mandatory="true" max_length="40" name="saar_date_of_investigation" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Processed" mandatory="true" max_length="40" name="saar_date_processed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Revalidated" mandatory="true" max_length="40" name="saar_date_revalidated" type="glide_date"/>
+        <element choice="3" default="civilian" label="Designation of Person" mandatory="true" max_length="40" name="saar_designation_of_person" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Civilian" value="civilian"/>
+                <element inactive_on_update="false" label="Contractor" value="contractor"/>
+                <element inactive_on_update="false" label="Military" value="military"/>
+            </choice>
+        </element>
+        <element label="IAO Organization" mandatory="true" max_length="50" name="saar_iao_organization" type="string"/>
+        <element label="IAO Phone Number" mandatory="true" max_length="40" name="saar_iao_phone_number" type="string"/>
+        <element label="IAO Sig Date" mandatory="true" max_length="40" name="saar_iao_sig_date" type="glide_date"/>
+        <element label="IA Training And Awareness Certification Requirements" max_length="40" name="saar_ia_training" type="boolean"/>
+        <element label="IA Training Date" mandatory="true" max_length="40" name="saar_ia_training_date" type="glide_date"/>
+        <element label="Information Owner Phone Number" mandatory="true" max_length="50" name="saar_information_owner_phone_number" type="string"/>
+        <element label="Information Owner Signature Date" mandatory="true" max_length="40" name="saar_information_owner_signature_date" type="glide_date"/>
+        <element choice="3" default="level 1" label="IT Level Designation" mandatory="true" max_length="40" name="saar_it_level_designation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Level 1" value="level 1"/>
+                <element inactive_on_update="false" label="Level 2" value="level 2"/>
+                <element inactive_on_update="false" label="Level 3" value="level 3"/>
+            </choice>
+        </element>
+        <element choice="3" default="devSecOps" label="Justification For Access" mandatory="true" max_length="40" name="saar_justification_for_access" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="DevSecOps" value="devSecOps"/>
+                <element inactive_on_update="false" label="NBIS" value="nbis"/>
+            </choice>
+        </element>
+        <element label="Location ( Physical Location of System)" mandatory="true" max_length="40" name="saar_location" type="string"/>
+        <element label="Name" mandatory="true" max_length="40" name="saar_name" type="string"/>
+        <element label="Office Symbol/Department" mandatory="true" max_length="40" name="saar_office_symbol_department" type="string"/>
+        <element label="Official Email Address" mandatory="true" max_length="40" name="saar_official_email_address" type="string"/>
+        <element label="Official Mailing Address" mandatory="true" max_length="40" name="saar_official_mailing_address" type="string"/>
+        <element label="Optional Information" max_length="40" name="saar_optional_information" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Processed By (Print name and Sign)" mandatory="true" max_length="40" name="saar_processed_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date (YYYYMMDD)" mandatory="true" max_length="40" name="saar_processed_sig_date" type="glide_date"/>
+        <element label="Job Title and Grade/Rank" mandatory="true" max_length="40" name="saar_requestor_job_title" type="string"/>
+        <element label="Requestor Name" mandatory="true" max_length="40" name="saar_requestor_name" type="string"/>
+        <element label="Requestor Office" mandatory="true" max_length="50" name="saar_requestor_office" type="string"/>
+        <element label="Requestor Organization" mandatory="true" max_length="40" name="saar_requestor_organization" type="string"/>
+        <element label="Requestor Phone" mandatory="true" max_length="40" name="saar_requestor_phone" type="phone_number_e164"/>
+        <element label="Request Date" mandatory="true" max_length="40" name="saar_request_date" type="glide_date"/>
+        <element label="Required Classified" max_length="40" name="saar_required_classified" type="string"/>
+        <element label="Required Other" max_length="40" name="saar_required_other" type="string"/>
+        <element label="Security Manager Signature" mandatory="true" max_length="40" name="saar_security_manager_signature" type="string"/>
+        <element label="Security Manager Signature Date" mandatory="true" max_length="40" name="saar_security_manager_signature_date" type="glide_date"/>
+        <element label="Security Manager Telephone Number" mandatory="true" max_length="40" name="saar_security_manager_telephone_number" type="phone_number_e164"/>
+        <element label="Signature of IAO " mandatory="true" max_length="40" name="saar_signature_of_iao" type="string"/>
+        <element label="Signature of Information Owner" mandatory="true" max_length="40" name="saar_signature_of_information_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="pending" label="State" max_length="40" name="saar_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+                <element inactive_on_update="false" label="Awaiting Approval" sequence="1" value="awaiting approval"/>
+                <element inactive_on_update="false" label="Closed completed" sequence="2" value="closed completed"/>
+                <element inactive_on_update="false" label="Pending" sequence="3" value="pending"/>
+                <element inactive_on_update="false" label="Rejected" sequence="4" value="rejected"/>
+            </choice>
+        </element>
+        <element label="Supervisor Email" mandatory="true" max_length="40" name="saar_supervisor_email" type="string"/>
+        <element label="Supervisor Name" mandatory="true" max_length="40" name="saar_supervisor_name" type="string"/>
+        <element label="Supervisor Org" mandatory="true" max_length="40" name="saar_supervisor_org" type="string"/>
+        <element label="Supervisor Phone Number" mandatory="true" max_length="40" name="saar_supervisor_phone_number" type="phone_number_e164"/>
+        <element label="Supervisor Signature" mandatory="true" max_length="40" name="saar_supervisor_signature" type="string"/>
+        <element label="Supervisor Sig Date" mandatory="true" max_length="40" name="saar_supervisor_sig_date" type="glide_date"/>
+        <element label="System Name (Platform of Applications)" mandatory="true" max_length="40" name="saar_system_name_platform_of_applications" type="string"/>
+        <element choice="3" default="authorized" label="Type Of Access" mandatory="true" max_length="40" name="saar_type_of_access" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Authorized" sequence="0" value="authorized"/>
+                <element inactive_on_update="false" label="Classified" sequence="1" value="classified"/>
+            </choice>
+        </element>
+        <element label="Type Of Investigation" mandatory="true" max_length="40" name="saar_type_of_investigation" type="string"/>
+        <element choice="1" default="initial" label="Type Of Request" mandatory="true" max_length="40" name="saar_type_of_request" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Deactivate" sequence="0" value="deactivate"/>
+                <element inactive_on_update="false" label="Initial" sequence="1" value="initial"/>
+                <element inactive_on_update="false" label="Modification" sequence="2" value="madification"/>
+                <element inactive_on_update="false" label="User ID" sequence="3" value="userid"/>
+            </choice>
+        </element>
+        <element label="User Id" mandatory="true" max_length="40" name="saar_type_of_request_other" type="string"/>
+        <element choice="1" default="unclassified" label="User Requires Access To" mandatory="true" max_length="40" name="saar_user_requires_access_to" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Classified" value="classified"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+                <element inactive_on_update="false" label="Unclassified" value="unclassified"/>
+            </choice>
+        </element>
+        <element label="User Signature" mandatory="true" max_length="40" name="saar_user_signature" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Validated By (Print name and Sign)" mandatory="true" max_length="40" name="saar_validated_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date (YYYYMMDD)" mandatory="true" max_length="40" name="saar_validated_sig_date" type="glide_date"/>
+        <element default="true" label="Verification" max_length="40" name="saar_verification" type="boolean"/>
+        <element label="Verified By" mandatory="true" max_length="40" name="saar_verified_by" type="string"/>
+        <element label="User Signature Date" mandatory="true" max_length="40" name="user_signature_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Processing Data" mandatory="true" max_length="4000" name="u_journal_1" type="journal"/>
+    </element>
+</database>
